@@ -1,0 +1,20 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_03848B47_0CD5_8443_4191_27754D448CB5.label = 1
+panorama_03F6D6C8_0CD5_8C4D_4184_940868FF8024.label = 2_1_2
+panorama_03CB8F95_0CD5_9CC7_41A8_E10AFBF5ADF6.label = 3_1_2
+panorama_03CBA8D6_0CD5_8445_4165_5E9D586AD7AB.label = 4_1_2
+panorama_03CBA1E7_0CD5_8443_4197_488F8A6955A5.label = 5_1_2
+panorama_03CB9AE9_0CD5_844F_4184_EFE41613B25F.label = 6_1_2
+panorama_03CBB3E8_0CD5_844D_41A5_0E9A63510D7C.label = 7
+panorama_03CB8E09_0CD6_7FCF_4190_33233FF29C12.label = 8
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Church
